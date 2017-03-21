@@ -4,7 +4,8 @@
 #define r 3
 main()
 {
-int a;
+int a,p;
 a=2*r*ri;
+p=r*r*ri
 }
 
