@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<stdlib.h>
+#define ri 32.14
+#define r 3
+main()
+{
+int a;
+a=2*r*ri;
+}
+
